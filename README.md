@@ -18,7 +18,7 @@ You can add your own theme simply by opening a Pull Request (more info in [CONTR
 
 1.  Clone this repository. Make sure [git](https://git-scm.com/) is installed and run:
     ```bash
-    git clone https://github.com/spicetify/spicetify-themes.git
+    git clone https://github.com/RazeSevi/spicetify-themes.git
     ```
 
 2.  Copy the files into the [Spicetify Themes folder](https://spicetify.app/docs/development/customization#themes). Run:
@@ -64,11 +64,11 @@ We've set up a separate document for our [contribution guidelines](./CONTRIBUTIN
 
 ## Troubleshooting
 
-Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. If you find problems when using or installing these themes, or you need help in modifying a theme then ask for suggestions on the [subreddit](https://www.reddit.com/r/spicetify/) or on the [Discord Server](https://discord.com/invite/VnevqPp2Rr).
+Do not open issues for general support questions as we want to keep GitHub issues for bug reports and feature requests. If you find problems when using or installing these themes, or you need help in modifying a theme then ask for suggestions on the [subreddit](https://www.reddit.com/r/spicetify/).
 
 Use GitHub issues ONLY for bugs and requesting new features.
 
-If you are unsure about which channel to use, go for Reddit or Discord.
+If you are unsure about which channel to use, go for Reddit.
 
 ## Useful resources
 
